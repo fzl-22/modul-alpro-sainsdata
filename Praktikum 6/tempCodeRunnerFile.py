@@ -1,0 +1,2 @@
+ n: "))
+resultEuler = euler(n)
